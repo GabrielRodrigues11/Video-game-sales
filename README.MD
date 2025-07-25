@@ -68,6 +68,39 @@ olist_projeto/
 
 ---
 
+## 📈 Principais Insights
+
+### 1. 🏆 Jogos mais vendidos da história
+- **Wii Sports** é o jogo com maior volume de vendas globais, seguido por clássicos como **Super Mario Bros.** e **Mario Kart Wii**.
+- O top 10 representa uma parcela significativa das vendas totais.
+
+### 2. 💰 Gêneros mais vendidos
+- Gêneros como **Sports**, **Platform** e **Racing** dominam as vendas.
+- Esses gêneros são responsáveis por grande parte da receita do mercado de jogos.
+
+### 3. 🎧 Plataformas com maiores vendas
+- Consoles como **Wii** e **PlayStation 2** lideram em termos de volume de vendas.
+- Plataformas portáteis e consoles mais recentes apresentam tendências distintas.
+
+### 4. 🌏 Evolução das vendas globais por ano
+- Observa-se um crescimento constante nas vendas até um pico em meados dos anos 2000.
+- Nos anos recentes, as vendas podem apresentar variações conforme o lançamento de novos consoles.
+
+### 5. 🌐 Vendas por região (América do Norte, Europa, Japão, Outras)
+- América do Norte e Europa respondem pela maior fatia das vendas globais.
+- Japão tem um mercado significativo, porém com preferência por gêneros e plataformas diferentes.
+
+### 6. 📃 Editoras que mais venderam
+- **Nintendo** é a principal publicadora em termos de volume de vendas globais.
+- Outras grandes editoras incluem **Electronic Arts** e **Activision**.
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/GabrielRodrigues11/Video-game-sales.git
+```
+
 ## 💼 Autor
 
 **Gabriel Rodrigues**  
