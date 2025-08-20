@@ -31,18 +31,22 @@ Este projeto apresenta uma análise exploratória de dados (EDA) sobre o mercado
 olist_projeto/
 |│
 |│── dados/
-|│└── vgsales.csv
+|│   └── vgsales.csv
 |│
 |├── notebooks/
 |│   └── 01_analise_vgsales.ipynb
 |│
-|└── outputs/
-     ├── editoras_com_mais_vendas.png
-     ├── genero_mais_vendido.png
-     ├── jogos_mais_vendidos.png
-     ├── vendas_ao_longo_dos_anos.png
-     ├── vendas_por_regiao_ao_longo_dos_anos.png
-     └── vendas_por_regiao.png
+|├── outputs/
+││   ├── editoras_com_mais_vendas.png
+││   ├── genero_mais_vendido.png
+││   ├── jogos_mais_vendidos.png
+││   ├── vendas_ao_longo_dos_anos.png
+││   ├── vendas_por_regiao_ao_longo_dos_anos.png
+││   └── vendas_por_regiao.png
+|│
+│└── scripts/
+│    └── inserir_dados.py
+
 ```
 
 ---
